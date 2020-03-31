@@ -1,0 +1,11 @@
+C:\Users\blade\OneDrive\Documentos\c#\sentenciaif\bin\Debug\netcoreapp3.1\sentenciaif.exe
+C:\Users\blade\OneDrive\Documentos\c#\sentenciaif\bin\Debug\netcoreapp3.1\sentenciaif.deps.json
+C:\Users\blade\OneDrive\Documentos\c#\sentenciaif\bin\Debug\netcoreapp3.1\sentenciaif.runtimeconfig.json
+C:\Users\blade\OneDrive\Documentos\c#\sentenciaif\bin\Debug\netcoreapp3.1\sentenciaif.runtimeconfig.dev.json
+C:\Users\blade\OneDrive\Documentos\c#\sentenciaif\bin\Debug\netcoreapp3.1\sentenciaif.dll
+C:\Users\blade\OneDrive\Documentos\c#\sentenciaif\bin\Debug\netcoreapp3.1\sentenciaif.pdb
+C:\Users\blade\OneDrive\Documentos\c#\sentenciaif\obj\Debug\netcoreapp3.1\sentenciaif.csprojAssemblyReference.cache
+C:\Users\blade\OneDrive\Documentos\c#\sentenciaif\obj\Debug\netcoreapp3.1\sentenciaif.AssemblyInfoInputs.cache
+C:\Users\blade\OneDrive\Documentos\c#\sentenciaif\obj\Debug\netcoreapp3.1\sentenciaif.AssemblyInfo.cs
+C:\Users\blade\OneDrive\Documentos\c#\sentenciaif\obj\Debug\netcoreapp3.1\sentenciaif.dll
+C:\Users\blade\OneDrive\Documentos\c#\sentenciaif\obj\Debug\netcoreapp3.1\sentenciaif.pdb

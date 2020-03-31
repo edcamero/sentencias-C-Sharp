@@ -1,0 +1,11 @@
+C:\Users\blade\OneDrive\Documentos\c#\sentenciaIf2\bin\Debug\netcoreapp3.1\sentenciaIf2.exe
+C:\Users\blade\OneDrive\Documentos\c#\sentenciaIf2\bin\Debug\netcoreapp3.1\sentenciaIf2.deps.json
+C:\Users\blade\OneDrive\Documentos\c#\sentenciaIf2\bin\Debug\netcoreapp3.1\sentenciaIf2.runtimeconfig.json
+C:\Users\blade\OneDrive\Documentos\c#\sentenciaIf2\bin\Debug\netcoreapp3.1\sentenciaIf2.runtimeconfig.dev.json
+C:\Users\blade\OneDrive\Documentos\c#\sentenciaIf2\bin\Debug\netcoreapp3.1\sentenciaIf2.dll
+C:\Users\blade\OneDrive\Documentos\c#\sentenciaIf2\bin\Debug\netcoreapp3.1\sentenciaIf2.pdb
+C:\Users\blade\OneDrive\Documentos\c#\sentenciaIf2\obj\Debug\netcoreapp3.1\sentenciaIf2.csprojAssemblyReference.cache
+C:\Users\blade\OneDrive\Documentos\c#\sentenciaIf2\obj\Debug\netcoreapp3.1\sentenciaIf2.AssemblyInfoInputs.cache
+C:\Users\blade\OneDrive\Documentos\c#\sentenciaIf2\obj\Debug\netcoreapp3.1\sentenciaIf2.AssemblyInfo.cs
+C:\Users\blade\OneDrive\Documentos\c#\sentenciaIf2\obj\Debug\netcoreapp3.1\sentenciaIf2.dll
+C:\Users\blade\OneDrive\Documentos\c#\sentenciaIf2\obj\Debug\netcoreapp3.1\sentenciaIf2.pdb
