@@ -6,32 +6,33 @@ namespace senteciaSwitch
     {
         static void Main(string[] args)
         {
-            string numero;
+            int numero;
             Console.WriteLine("prograama de sentencia switch");
-            Console.WriteLine("Escriba el numero en castellano");
-            numero = Console.ReadLine();
+            Console.WriteLine("Escriba el numero ");
+            numero = int.Parse(Console.ReadLine());
             switch(numero){
-                case "UNO":
-                Console.WriteLine("1");
+                case 1:
+                Console.WriteLine("UNO");
                 break;
-                case "DOS":
-                Console.WriteLine("2");
+                case 2:
+                Console.WriteLine("DOS");
                 break;
-                case "TRES":
-                Console.WriteLine("3");
+                case 3:
+                Console.WriteLine("TRES");
                 
                 break;
-                case "CUATRO":
-                Console.WriteLine("4");
+                case 4:
+                Console.WriteLine("CUATRO");
                 break;
-                case "CINCO":
-                Console.WriteLine("5");
+                case 5:
+                Console.WriteLine("CINCO");
                 break;
                 default:
-                Console.WriteLine(" no es asi");
+                Console.WriteLine(" fuera de rango");
                 break;
 
             }
+            Console.ReadKey();
         }
     }
 }

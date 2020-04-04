@@ -1,0 +1,11 @@
+C:\Users\blade\source\repos\primer programa\bin\Debug\netcoreapp3.1\primer programa.exe
+C:\Users\blade\source\repos\primer programa\bin\Debug\netcoreapp3.1\primer programa.deps.json
+C:\Users\blade\source\repos\primer programa\bin\Debug\netcoreapp3.1\primer programa.runtimeconfig.json
+C:\Users\blade\source\repos\primer programa\bin\Debug\netcoreapp3.1\primer programa.runtimeconfig.dev.json
+C:\Users\blade\source\repos\primer programa\bin\Debug\netcoreapp3.1\primer programa.dll
+C:\Users\blade\source\repos\primer programa\bin\Debug\netcoreapp3.1\primer programa.pdb
+C:\Users\blade\source\repos\primer programa\obj\Debug\netcoreapp3.1\primer programa.csprojAssemblyReference.cache
+C:\Users\blade\source\repos\primer programa\obj\Debug\netcoreapp3.1\primer programa.AssemblyInfoInputs.cache
+C:\Users\blade\source\repos\primer programa\obj\Debug\netcoreapp3.1\primer programa.AssemblyInfo.cs
+C:\Users\blade\source\repos\primer programa\obj\Debug\netcoreapp3.1\primer programa.dll
+C:\Users\blade\source\repos\primer programa\obj\Debug\netcoreapp3.1\primer programa.pdb

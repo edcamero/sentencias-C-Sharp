@@ -1,0 +1,10 @@
+C:\Users\blade\source\repos\ejemplo do while 2\obj\Debug\netcoreapp3.1\ejemplo do while 2.AssemblyInfoInputs.cache
+C:\Users\blade\source\repos\ejemplo do while 2\obj\Debug\netcoreapp3.1\ejemplo do while 2.AssemblyInfo.cs
+C:\Users\blade\source\repos\ejemplo do while 2\bin\Debug\netcoreapp3.1\ejemplo do while 2.exe
+C:\Users\blade\source\repos\ejemplo do while 2\bin\Debug\netcoreapp3.1\ejemplo do while 2.deps.json
+C:\Users\blade\source\repos\ejemplo do while 2\bin\Debug\netcoreapp3.1\ejemplo do while 2.runtimeconfig.json
+C:\Users\blade\source\repos\ejemplo do while 2\bin\Debug\netcoreapp3.1\ejemplo do while 2.runtimeconfig.dev.json
+C:\Users\blade\source\repos\ejemplo do while 2\bin\Debug\netcoreapp3.1\ejemplo do while 2.dll
+C:\Users\blade\source\repos\ejemplo do while 2\bin\Debug\netcoreapp3.1\ejemplo do while 2.pdb
+C:\Users\blade\source\repos\ejemplo do while 2\obj\Debug\netcoreapp3.1\ejemplo do while 2.dll
+C:\Users\blade\source\repos\ejemplo do while 2\obj\Debug\netcoreapp3.1\ejemplo do while 2.pdb

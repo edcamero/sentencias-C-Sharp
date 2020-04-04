@@ -9,3 +9,14 @@ C:\Users\blade\OneDrive\Documentos\c#\senteciaSwitch\obj\Debug\netcoreapp3.1\sen
 C:\Users\blade\OneDrive\Documentos\c#\senteciaSwitch\obj\Debug\netcoreapp3.1\senteciaSwitch.AssemblyInfo.cs
 C:\Users\blade\OneDrive\Documentos\c#\senteciaSwitch\obj\Debug\netcoreapp3.1\senteciaSwitch.dll
 C:\Users\blade\OneDrive\Documentos\c#\senteciaSwitch\obj\Debug\netcoreapp3.1\senteciaSwitch.pdb
+C:\Users\blade\source\repos\senteciaSwitch\bin\Debug\netcoreapp3.1\senteciaSwitch.exe
+C:\Users\blade\source\repos\senteciaSwitch\bin\Debug\netcoreapp3.1\senteciaSwitch.deps.json
+C:\Users\blade\source\repos\senteciaSwitch\bin\Debug\netcoreapp3.1\senteciaSwitch.runtimeconfig.json
+C:\Users\blade\source\repos\senteciaSwitch\bin\Debug\netcoreapp3.1\senteciaSwitch.runtimeconfig.dev.json
+C:\Users\blade\source\repos\senteciaSwitch\bin\Debug\netcoreapp3.1\senteciaSwitch.dll
+C:\Users\blade\source\repos\senteciaSwitch\bin\Debug\netcoreapp3.1\senteciaSwitch.pdb
+C:\Users\blade\source\repos\senteciaSwitch\obj\Debug\netcoreapp3.1\senteciaSwitch.csprojAssemblyReference.cache
+C:\Users\blade\source\repos\senteciaSwitch\obj\Debug\netcoreapp3.1\senteciaSwitch.AssemblyInfoInputs.cache
+C:\Users\blade\source\repos\senteciaSwitch\obj\Debug\netcoreapp3.1\senteciaSwitch.AssemblyInfo.cs
+C:\Users\blade\source\repos\senteciaSwitch\obj\Debug\netcoreapp3.1\senteciaSwitch.dll
+C:\Users\blade\source\repos\senteciaSwitch\obj\Debug\netcoreapp3.1\senteciaSwitch.pdb

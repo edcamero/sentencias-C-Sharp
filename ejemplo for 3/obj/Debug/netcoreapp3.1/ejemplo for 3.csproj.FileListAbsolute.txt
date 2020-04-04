@@ -1,0 +1,11 @@
+C:\Users\blade\source\repos\ejemplo for 3\obj\Debug\netcoreapp3.1\ejemplo for 3.csprojAssemblyReference.cache
+C:\Users\blade\source\repos\ejemplo for 3\obj\Debug\netcoreapp3.1\ejemplo for 3.AssemblyInfoInputs.cache
+C:\Users\blade\source\repos\ejemplo for 3\obj\Debug\netcoreapp3.1\ejemplo for 3.AssemblyInfo.cs
+C:\Users\blade\source\repos\ejemplo for 3\bin\Debug\netcoreapp3.1\ejemplo for 3.exe
+C:\Users\blade\source\repos\ejemplo for 3\bin\Debug\netcoreapp3.1\ejemplo for 3.deps.json
+C:\Users\blade\source\repos\ejemplo for 3\bin\Debug\netcoreapp3.1\ejemplo for 3.runtimeconfig.json
+C:\Users\blade\source\repos\ejemplo for 3\bin\Debug\netcoreapp3.1\ejemplo for 3.runtimeconfig.dev.json
+C:\Users\blade\source\repos\ejemplo for 3\bin\Debug\netcoreapp3.1\ejemplo for 3.dll
+C:\Users\blade\source\repos\ejemplo for 3\bin\Debug\netcoreapp3.1\ejemplo for 3.pdb
+C:\Users\blade\source\repos\ejemplo for 3\obj\Debug\netcoreapp3.1\ejemplo for 3.dll
+C:\Users\blade\source\repos\ejemplo for 3\obj\Debug\netcoreapp3.1\ejemplo for 3.pdb

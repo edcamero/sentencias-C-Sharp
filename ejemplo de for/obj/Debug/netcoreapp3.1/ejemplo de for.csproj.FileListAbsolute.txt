@@ -1,0 +1,10 @@
+C:\Users\blade\source\repos\ejemplo de for\bin\Debug\netcoreapp3.1\ejemplo de for.exe
+C:\Users\blade\source\repos\ejemplo de for\bin\Debug\netcoreapp3.1\ejemplo de for.deps.json
+C:\Users\blade\source\repos\ejemplo de for\bin\Debug\netcoreapp3.1\ejemplo de for.runtimeconfig.json
+C:\Users\blade\source\repos\ejemplo de for\bin\Debug\netcoreapp3.1\ejemplo de for.runtimeconfig.dev.json
+C:\Users\blade\source\repos\ejemplo de for\bin\Debug\netcoreapp3.1\ejemplo de for.dll
+C:\Users\blade\source\repos\ejemplo de for\bin\Debug\netcoreapp3.1\ejemplo de for.pdb
+C:\Users\blade\source\repos\ejemplo de for\obj\Debug\netcoreapp3.1\ejemplo de for.AssemblyInfoInputs.cache
+C:\Users\blade\source\repos\ejemplo de for\obj\Debug\netcoreapp3.1\ejemplo de for.AssemblyInfo.cs
+C:\Users\blade\source\repos\ejemplo de for\obj\Debug\netcoreapp3.1\ejemplo de for.dll
+C:\Users\blade\source\repos\ejemplo de for\obj\Debug\netcoreapp3.1\ejemplo de for.pdb
