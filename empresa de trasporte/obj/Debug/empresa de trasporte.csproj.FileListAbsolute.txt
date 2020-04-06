@@ -1,0 +1,9 @@
+C:\Users\blade\source\repos\empresa de trasporte\bin\Debug\empresa de trasporte.exe.config
+C:\Users\blade\source\repos\empresa de trasporte\bin\Debug\empresa de trasporte.exe
+C:\Users\blade\source\repos\empresa de trasporte\bin\Debug\empresa de trasporte.pdb
+C:\Users\blade\source\repos\empresa de trasporte\obj\Debug\empresa de trasporte.csprojAssemblyReference.cache
+C:\Users\blade\source\repos\empresa de trasporte\obj\Debug\empresa_de_trasporte.Properties.Resources.resources
+C:\Users\blade\source\repos\empresa de trasporte\obj\Debug\empresa de trasporte.csproj.GenerateResource.cache
+C:\Users\blade\source\repos\empresa de trasporte\obj\Debug\empresa de trasporte.exe
+C:\Users\blade\source\repos\empresa de trasporte\obj\Debug\empresa de trasporte.pdb
+C:\Users\blade\source\repos\empresa de trasporte\obj\Debug\empresa_de_trasporte.Form1.resources
